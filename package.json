@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "description": "",
+  "version": "",
+  "homepage": "https://github.com/leonardorb/riot-labs",
+  "author": {
+    "name": "Leonardo R. Barbosa",
+    "email": "rb.leonardo@gmail.com"
+  },
+  "dependencies": {
+    "riot": "^2.1.0"
+  }
+}
